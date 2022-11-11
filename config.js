@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['923145151029','']
+global.premium = ['923145151029','923440480244']
+global.botname = '𝞑𝞗𝙏 𝞑𝙔 𝘿𝞗𝞜'
+global.ownername = '𝘿𝞗𝞜 𝞗𝙁𝙁𝞘𝘾𝞘𝞓𝙇'
+global.group1 = 'https://chat.whatsapp.com/C0EkFNWnm0m7zxJFnPTKeO'
+global.group2 = 'https://chat.whatsapp.com/D7B0pYjpgOaBOMiqcTXiBo'
+global.packname = '𝞑𝞗𝙏 𝞑𝙔 𝘿𝞗𝞜'
+global.ytchannel = 'https://youtube.com/channel/UC8kcg3DzdwSGNKXGYlSup_w'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,10 +65,10 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = '𝞑𝞗𝙏 𝞑𝙔 𝘿𝞗𝞜'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','.']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
@@ -80,7 +80,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait 𝞑𝞗𝙏 𝞑𝙔 𝘿𝞗𝞜 processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/FBHvzsH.mp4' }
+global.vid = { url: 'https://i.imgur.com/FBHvzsH.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
